@@ -14,7 +14,7 @@ then  my website will open like this-
 
 ![Screenshot (1192)](https://user-images.githubusercontent.com/97779368/151946803-a18f36b5-dd79-426f-a30f-93d48f78e8ab.png)
 
-On clicking on the options i.e, Home, About, Facility, Review, Appointment, Post, Chatbot, the user can navigate through the different pages of site I deployed on Azure.
+On clicking on the options i.e, Home, About, Facility, Review, Appointment, Post, Chatbot, user can navigate through the different pages of site I deployed on Azure.
 
 ![Screenshot (1193)](https://user-images.githubusercontent.com/97779368/151946848-6161a487-b3e1-4694-9b6b-ea476bb00a47.png)
 ![Screenshot (1194)](https://user-images.githubusercontent.com/97779368/151946881-bdf39ab3-5204-4a1b-85e9-2abedfecb25e.png)
@@ -38,7 +38,6 @@ On clicking the option Facility, this page will appear:
 On clicking the option Reviews, it will show the reviews of people:
 ![Screenshot (1203)](https://user-images.githubusercontent.com/97779368/151947077-2f97339e-b4a1-416b-b606-c7c48bbc8827.png)
 ![Screenshot (1204)](https://user-images.githubusercontent.com/97779368/151947122-1758679e-6894-4de1-8b40-378dc2d4516c.png)
-![Screenshot (1204) (1)](https://user-images.githubusercontent.com/97779368/151947104-0cea744e-0fac-4c7f-a347-2d132b2d8004.png)
 
 
 On clicking the Appointment option, 'Make an Appointment' page will appear where the user can enter their data and user can make appointment with their respective doctors:
