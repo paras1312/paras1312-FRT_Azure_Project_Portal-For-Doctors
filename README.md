@@ -49,7 +49,6 @@ On clicking the Posts option, POSTS page will appear along with the footer secti
 
 ![Screenshot (1212)](https://user-images.githubusercontent.com/97779368/151947306-00f90356-3ecc-437f-889d-d40d828b29d3.png)
 
-![Screenshot (1212)](https://user-images.githubusercontent.com/97779368/151947306-00f90356-3ecc-437f-889d-d40d828b29d3.png)![Screenshot (1212)](https://user-images.githubusercontent.com/97779368/151947306-00f90356-3ecc-437f-889d-d40d828b29d3.png)![Screenshot (1212)](https://user-images.githubusercontent.com/97779368/151947306-00f90356-3ecc-437f-889d-d40d828b29d3.png)
 
 
 
