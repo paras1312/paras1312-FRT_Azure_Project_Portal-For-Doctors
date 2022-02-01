@@ -19,9 +19,10 @@ On clicking on the options i.e, Home, About, Facility, Review, Appointment, Post
 On clicking the option Home, this page will appear:
 ![Screenshot (1195)](https://user-images.githubusercontent.com/97779368/151946910-0d782e17-cc10-4cce-bd24-b108cb769304.png)
 
-On clicking the option Home, this page will appear:
+On clicking the option About, this page will appear:
 ![Screenshot (1196)](https://user-images.githubusercontent.com/97779368/151946942-c14f43bf-1b8d-43d8-a3bb-f6beca0fe98c.png)
 
+On clicking the option Facility, this page will appear:
 ![Screenshot (1198)](https://user-images.githubusercontent.com/97779368/151947009-f35ab1c3-c069-4446-a63c-ae794ece4b4f.png)
 a21e-10dd-4238-9864-8240a39ed025.png)
 
@@ -30,6 +31,8 @@ a21e-10dd-4238-9864-8240a39ed025.png)
 ![Screenshot (1201)](https://user-images.githubusercontent.com/97779368/151947037-c125841d-f011-46cc-a2bb-e85a8d5c5da8.png)
 
 ![Screenshot (1202)](https://user-images.githubusercontent.com/97779368/151947063-43dba0ce-b1aa-46dc-8d9b-0c3957381142.png)
+
+a
 ![Screenshot (1203)](https://user-images.githubusercontent.com/97779368/151947077-2f97339e-b4a1-416b-b606-c7c48bbc8827.png)
 ![Screenshot (1204)](https://user-images.githubusercontent.com/97779368/151947122-1758679e-6894-4de1-8b40-378dc2d4516c.png)
 
