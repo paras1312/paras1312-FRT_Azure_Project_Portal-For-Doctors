@@ -34,7 +34,7 @@ On clicking the option Reviews, it will show the reviews of people:
 ![Screenshot (1204) (1)](https://user-images.githubusercontent.com/97779368/151947104-0cea744e-0fac-4c7f-a347-2d132b2d8004.png)
 
 
-
+On clicking the Appointment option, 'Make an Appointment' will appear where the user can enter their data and user can make appointment with their respective doctors:
 
 ![Screenshot (1205)](https://user-images.githubusercontent.com/97779368/151947166-a840cb91-e1a4-4bd2-8326-dbcc551df069.png)
 
