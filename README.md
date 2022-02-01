@@ -49,31 +49,16 @@ On clicking the Posts option, POSTS page will appear along with the footer secti
 
 ![Screenshot (1210)](https://user-images.githubusercontent.com/97779368/151947198-035a517e-30fc-4e76-8660-a8409cfc8846.png)
 
-
+On clicking the Chabot option, our AzureBot will become active and respond quickly when the user ask him something as shown below:
 ![Screenshot (1211)](https://user-images.githubusercontent.com/97779368/151947241-b6ee01b8-88d9-473e-a2b0-e5f6209ff263.png)
 ![Screenshot (1212) (1)](https://user-images.githubusercontent.com/97779368/151947273-a3ed5383-6905-4845-9e83-0964da85e16a.png)
 
 ![Screenshot (1212)](https://user-images.githubusercontent.com/97779368/151947306-00f90356-3ecc-437f-889d-d40d828b29d3.png)
 
-
-Telegram https://web.telegram.org/z/#5184645692:
+I have also implemented this AzureBot system in Telegram App that similarly does the functions as it does on my website as shown below:
+Telegram: https://web.telegram.org/z/#5184645692
 ![sss](https://user-images.githubusercontent.com/97779368/151955161-e4cec75c-6e67-49fe-8668-1c698496e36d.jpeg)
 
+So, in this way using these Azure Services, I built my this live ChatBot system for my azure deployed static website and for Telegram App.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Thanks for reading the readme file.
