@@ -51,8 +51,9 @@ On clicking the Posts option, POSTS page will appear along with the footer secti
 ![Screenshot (1212)](https://user-images.githubusercontent.com/97779368/151947306-00f90356-3ecc-437f-889d-d40d828b29d3.png)
 
 
-Telegram:
+Telegram https://web.telegram.org/z/#5184645692:
 ![sss](https://user-images.githubusercontent.com/97779368/151955161-e4cec75c-6e67-49fe-8668-1c698496e36d.jpeg)
+
 
 
 
