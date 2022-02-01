@@ -38,7 +38,7 @@ On clicking the Appointment option, 'Make an Appointment' page will appear where
 
 ![Screenshot (1205)](https://user-images.githubusercontent.com/97779368/151947166-a840cb91-e1a4-4bd2-8326-dbcc551df069.png)
 
-On clicking the Posts option, POSTS page will appear:
+On clicking the Posts option, POSTS page will appear along with the footer section:
 ![Screenshot (1206)](https://user-images.githubusercontent.com/97779368/151947182-18e05131-df44-4303-8da6-714485d63736.png)
 
 ![Screenshot (1210)](https://user-images.githubusercontent.com/97779368/151947198-035a517e-30fc-4e76-8660-a8409cfc8846.png)
@@ -48,6 +48,8 @@ On clicking the Posts option, POSTS page will appear:
 ![Screenshot (1212) (1)](https://user-images.githubusercontent.com/97779368/151947273-a3ed5383-6905-4845-9e83-0964da85e16a.png)
 
 ![Screenshot (1212)](https://user-images.githubusercontent.com/97779368/151947306-00f90356-3ecc-437f-889d-d40d828b29d3.png)
+
+![Screenshot (1212)](https://user-images.githubusercontent.com/97779368/151947306-00f90356-3ecc-437f-889d-d40d828b29d3.png)![Screenshot (1212)](https://user-images.githubusercontent.com/97779368/151947306-00f90356-3ecc-437f-889d-d40d828b29d3.png)![Screenshot (1212)](https://user-images.githubusercontent.com/97779368/151947306-00f90356-3ecc-437f-889d-d40d828b29d3.png)
 
 
 
