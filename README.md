@@ -1,8 +1,15 @@
 # paras1312-FRT_Azure_Project_Portal-For-Doctors
+Title: Azure ChatBot Assistance for Portal For Doctors and Telegram
 
-During this period of Covid-19, to reduce the stress and burden of doctors of our medical sector & also to make people aware and give some information about symptoms of various diseases and their solutions to patients so that they can take precautionary actions on time, I made Azure ChatBot system which I eventually implement in my website or portal named as "Portal for Doctors". I have also implemented this ChatBot system in "Telegram" app to get a health ChatBot assistant in them. Portal for Doctors is my college mini-project on which I am working on. Basically, I made this project to help the doctors and patients in their busy schedule so that doctors can give the treatment and patients can get the treatement in lesser time with no waiting and any hustle. I implement this ChatBot in my portal / website to get this health ChatBot assistance for serving the patients anytime. This Health ChatBot Assistance can give the best advice to the patients that they can take on time.
+My problem statement is: During this covid era, there is a lot of stress, hustle and burden on doctors of our medical sector which is not a good thing. There is also a lack of awareness among people about symptoms of various diseases and their solutions, like what to do in their initial phase and what precautionary actions they can take for them. So, there must be some system that can handle all these problems effectively.
 
-So, when user will access the our site :https://staticwebsite1312.z5.web.core.windows.net,
+During this period of Covid-19, to reduce the stress and burden of doctors of our medical sector & also to make people aware and give some information about symptoms of various diseases and their solutions to patients so that they can take precautionary actions on time, I made Azure ChatBot system which I eventually implement in my website or portal named as "Portal for Doctors". I have also implemented this AzureBot system in "Telegram" app to get a health ChatBot assistant in them. Portal for Doctors is my college mini-project on which I am working on. Basically, I made this project to help the doctors and patients in their busy schedule so that doctors can give the treatment and patients can get the treatement in lesser time with no waiting and any hustle. I implement this ChatBot in my portal / website to get this health ChatBot assistance for serving the patients anytime. This Health ChatBot Assistance can give the best advice to the patients that they can take on time.
+
+Basically, I delployed my website that I made for a mini project on Microsoft Azure portal as a static website and then implement this azurebot system to my website to get the health assistance advice using the various azure services. I have also implemented this Azurebot system in the Telegram app. The azure services that I used for making this are QnA Maker, Health Bot, API Apps, AzureApp Services, Health Bot.
+
+
+
+So, when the user will access the our site :https://staticwebsite1312.z5.web.core.windows.net,
 then  my website will open like this-
 
 ![Screenshot (1192)](https://user-images.githubusercontent.com/97779368/151946803-a18f36b5-dd79-426f-a30f-93d48f78e8ab.png)
