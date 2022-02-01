@@ -32,12 +32,13 @@ a21e-10dd-4238-9864-8240a39ed025.png)
 
 ![Screenshot (1202)](https://user-images.githubusercontent.com/97779368/151947063-43dba0ce-b1aa-46dc-8d9b-0c3957381142.png)
 
-a
+On clicking the option Facility, it will show the Facilities that our portal has-
 ![Screenshot (1203)](https://user-images.githubusercontent.com/97779368/151947077-2f97339e-b4a1-416b-b606-c7c48bbc8827.png)
 ![Screenshot (1204)](https://user-images.githubusercontent.com/97779368/151947122-1758679e-6894-4de1-8b40-378dc2d4516c.png)
 
 ![Screenshot (1204) (1)](https://user-images.githubusercontent.com/97779368/151947104-0cea744e-0fac-4c7f-a347-2d132b2d8004.png)
 
+a
 
 
 ![Screenshot (1205)](https://user-images.githubusercontent.com/97779368/151947166-a840cb91-e1a4-4bd2-8326-dbcc551df069.png)
