@@ -15,10 +15,13 @@ On clicking on the options i.e, Home, About, Facility, Review, Appointment, Post
 ![Screenshot (1193)](https://user-images.githubusercontent.com/97779368/151946848-6161a487-b3e1-4694-9b6b-ea476bb00a47.png)
 
 ![Screenshot (1194)](https://user-images.githubusercontent.com/97779368/151946881-bdf39ab3-5204-4a1b-85e9-2abedfecb25e.png)
+
+On clicking the option Home, this page will appear:
 ![Screenshot (1195)](https://user-images.githubusercontent.com/97779368/151946910-0d782e17-cc10-4cce-bd24-b108cb769304.png)
 
+On clicking the option Home, this page will appear:
 ![Screenshot (1196)](https://user-images.githubusercontent.com/97779368/151946942-c14f43bf-1b8d-43d8-a3bb-f6beca0fe98c.png)
-![Screenshot (1196)](https://user-images.githubusercontent.com/97779368/151946982-9683
+
 ![Screenshot (1198)](https://user-images.githubusercontent.com/97779368/151947009-f35ab1c3-c069-4446-a63c-ae794ece4b4f.png)
 a21e-10dd-4238-9864-8240a39ed025.png)
 
