@@ -27,8 +27,6 @@ On clicking the option Facility, this page will appear:
 ![Screenshot (1201)](https://user-images.githubusercontent.com/97779368/151947037-c125841d-f011-46cc-a2bb-e85a8d5c5da8.png)
 ![Screenshot (1202)](https://user-images.githubusercontent.com/97779368/151947063-43dba0ce-b1aa-46dc-8d9b-0c3957381142.png)
 
-Telegram:
-![sss](https://user-images.githubusercontent.com/97779368/151955161-e4cec75c-6e67-49fe-8668-1c698496e36d.jpeg)
 
 
 On clicking the option Reviews, it will show the reviews of people:
@@ -52,6 +50,9 @@ On clicking the Posts option, POSTS page will appear along with the footer secti
 
 ![Screenshot (1212)](https://user-images.githubusercontent.com/97779368/151947306-00f90356-3ecc-437f-889d-d40d828b29d3.png)
 
+
+Telegram:
+![sss](https://user-images.githubusercontent.com/97779368/151955161-e4cec75c-6e67-49fe-8668-1c698496e36d.jpeg)
 
 
 
