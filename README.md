@@ -55,7 +55,8 @@ On clicking the Chabot option, our AzureBot will become active and respond quick
 
 ![Screenshot (1212)](https://user-images.githubusercontent.com/97779368/151947306-00f90356-3ecc-437f-889d-d40d828b29d3.png)
 
-I built this website using HTML5, CSS3, JavaScript, and using some Azure servives and deployed on Microsoft Azure Portal as a static website.
+I built this website using HTML5, CSS3, JavaScript, and using some Azure servives and deployed on Microsoft Azure Portal as a static website & in future, I will be adding more features to this portal or website as well.
+
 I have also implemented this AzureBot system in Telegram App that similarly does the functions as it does on my website as shown below:
 Telegram: https://web.telegram.org/z/#5184645692
 ![sss](https://user-images.githubusercontent.com/97779368/151955161-e4cec75c-6e67-49fe-8668-1c698496e36d.jpeg)
